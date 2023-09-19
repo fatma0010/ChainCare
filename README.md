@@ -84,8 +84,8 @@ https://user-images.githubusercontent.com/46838441/175838446-1b02243e-23fa-45d6-
 
 ## For more information about the system, implementation, and technologies:
 
- - [Check The Documentation](https://github.com/Dina-Hosny/ChainCare/blob/master/ChainCare%20Documentation.pdf)
- - [Check The Presentation](https://github.com/Dina-Hosny/ChainCare/blob/master/ChainCare%20Presentation.pptx)
+ - [Check The Documentation](https://drive.google.com/file/d/1ZKj_q7wvXtKnNQS8euauXQMPAghY1ShZ/view?usp=sharing)
+ - [Check The Presentation](https://docs.google.com/presentation/d/1XCcn8yBOII4mDCLtkaTXYSh9YwYkeR6K/edit?usp=sharing&ouid=100571042421223210121&rtpof=true&sd=true)
 
 
 
